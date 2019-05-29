@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1508015651 source:c:\users\boshy\desktop\xx\fooditeam.cpp
+	"fooditeam.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508015559 c:\users\boshy\desktop\xx\fooditeam.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508200351 source:c:\users\boshy\desktop\xx\moneydrawer.cpp
+	"moneydrawer.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508118866 c:\users\boshy\desktop\xx\moneydrawer.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508201216 source:c:\users\boshy\desktop\xx\vendingmachine.cpp
+	"vendingmachine.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<math.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508126210 c:\users\boshy\desktop\xx\vendingmachine.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508199933 source:c:\users\boshy\desktop\xx\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"vendingmachine.h"
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508015651 source:c:\users\boshy\desktop\text cases as1\xx\fooditeam.cpp
+	"fooditeam.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508015559 c:\users\boshy\desktop\text cases as1\xx\fooditeam.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508201455 source:c:\users\boshy\desktop\text cases as1\xx\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"vendingmachine.h"
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508126210 c:\users\boshy\desktop\text cases as1\xx\vendingmachine.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508118866 c:\users\boshy\desktop\text cases as1\xx\moneydrawer.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508201455 source:c:\users\boshy\desktop\text cases as1\xx\moneydrawer.cpp
+	"moneydrawer.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508201216 source:c:\users\boshy\desktop\text cases as1\xx\vendingmachine.cpp
+	"vendingmachine.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<math.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+

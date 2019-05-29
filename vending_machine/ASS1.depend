@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1507979652 source:h:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.cpp
+	"fooditeam.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1507979560 h:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508165456 source:h:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.cpp
+	"moneydrawer.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508082868 h:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508166394 source:h:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"vendingmachine.h"
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508090212 h:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\vendingmachine.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508329590 source:h:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\vendingmachine.cpp
+	"vendingmachine.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<math.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1507983252 source:d:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.cpp
+	"fooditeam.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1507983160 d:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508169994 source:d:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"vendingmachine.h"
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508093812 d:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\vendingmachine.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508086468 d:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508344052 source:d:\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.cpp
+	"moneydrawer.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1507983252 source:c:\users\boshy\desktop\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.cpp
+	"fooditeam.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1507983160 c:\users\boshy\desktop\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508344052 source:c:\users\boshy\desktop\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.cpp
+	"moneydrawer.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508086468 c:\users\boshy\desktop\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508344124 source:c:\users\boshy\desktop\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\vendingmachine.cpp
+	"vendingmachine.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<math.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508093812 c:\users\boshy\desktop\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\vendingmachine.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508430189 source:c:\users\boshy\desktop\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"vendingmachine.h"
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1507947252 source:f:\matrials\level 2\first term\opp c++\ass\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.cpp
+	"fooditeam.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1507947160 f:\matrials\level 2\first term\opp c++\ass\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\fooditeam.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508394189 source:f:\matrials\level 2\first term\opp c++\ass\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"vendingmachine.h"
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508057812 f:\matrials\level 2\first term\opp c++\ass\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\vendingmachine.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
+1508050468 f:\matrials\level 2\first term\opp c++\ass\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.h
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508394252 source:f:\matrials\level 2\first term\opp c++\ass\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\moneydrawer.cpp
+	"moneydrawer.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+
+1508308124 source:f:\matrials\level 2\first term\opp c++\ass\as1-mohamed ragab kamal 20160202--mohamed amin amin 20160194\ass 1\vendingmachine.cpp
+	"vendingmachine.h"
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<math.h>
+	"fooditeam.h"
+	"moneydrawer.h"
+
